@@ -1,0 +1,70 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl ZEBBODY
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd ZEBBODY.png
+map_bump ZEBSKIN.png
+bump ZEBSKIN.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ZEBHAIR
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd ZEBHAIR.png
+map_bump 
+bump 
+map_opacity ZEBHAIRO.png
+map_d ZEBHAIRO.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ZEBEYE
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 181.019
+map_Kd ZEBEYE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ZEBTAIL
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd ZEBTAIL.png
+map_bump 
+bump 
+map_opacity ZEBTAILO.png
+map_d ZEBTAILO.png
+refl 
+map_kS 
+map_kA 
+map_Ns 

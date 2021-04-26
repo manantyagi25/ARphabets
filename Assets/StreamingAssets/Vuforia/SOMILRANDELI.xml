@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="jug2" size="4.000000 2.010030" />
+    <ImageTarget name="ice-cream" size="4.000000 2.232000" />
+    <ImageTarget name="nest" size="4.000000 2.100000" />
+    <ImageTarget name="mango" size="4.000000 2.187500" />
+    <ImageTarget name="kite" size="4.000000 2.676923" />
+    <ImageTarget name="fish" size="4.000000 2.904943" />
+    <ImageTarget name="ice" size="4.000000 3.902344" />
+    <ImageTarget name="robot" size="4.000000 4.000000" />
+    <ImageTarget name="queen" size="4.000000 2.904943" />
+    <ImageTarget name="pomegranate" size="4.000000 2.010030" />
+    <ImageTarget name="orange" size="4.000000 2.010030" />
+    <ImageTarget name="light" size="4.000000 2.010030" />
+    <ImageTarget name="joker" size="4.000000 2.010030" />
+    <ImageTarget name="house" size="4.000000 2.010030" />
+    <ImageTarget name="guitar" size="4.000000 2.010030" />
+    <ImageTarget name="elephant" size="4.000000 2.010030" />
+    <ImageTarget name="door" size="4.000000 2.010030" />
+    <ImageTarget name="cup" size="5.000000 2.512538" />
+  </Tracking>
+</QCARConfig>
